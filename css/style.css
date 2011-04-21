@@ -115,6 +115,13 @@ nav {
 	background-color: #365A6D;
 }
 
+#title {
+	width: 230px;
+	height: 93px;
+	background: url("../img/logo_withName.png");
+	text-indent: -9999px;
+}
+
 #logo {
 }
 
